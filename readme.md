@@ -21,3 +21,7 @@ Este repositório contém materiais de estudo, anotações e implementações pr
 ### 02 - Grafos
 - Criação e compreensão de grafos
 - Algoritmos de busca (BFS, DFS, Greedy, etc.)
+
+
+### 03 - Algoritmo A-Star (Trabalho)
+- Compreensão e implementação do Algorimo A*.
